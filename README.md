@@ -1,0 +1,2 @@
+# tame
+Wordpress Theme
